@@ -14,18 +14,18 @@ Welcome to the Computer Science Mini Projects repository! This repository serves
 
 Explore projects focused on parallel computing and computer architecture:
 
-1. [Introduction to DASK](https://github.com/Praveen76/Introduction-to-DASK):
-2. [Introduction to NUMBA](https://github.com/Praveen76/Introduction-to-NUMBA):
-3. [Introduction to PySpark](https://github.com/Praveen76/Introduction-to-PySpark):
-4. [Introduction to RAY](https://github.com/Praveen76/Introduction-to-RAY):
-5. [Distributed training using TensorFlow](https://github.com/Praveen76/Distributed_Training_using_TensorFlow)
-6. [Introduction to RAPIDS](https://github.com/Praveen76/Introduction-to-RAPIDS):
-7. [Introduction to PySpark and MLLib](https://github.com/Praveen76/Introduction-to-PySpark-and-MLLib):
-8. [Introduction to OpenMP](https://github.com/Praveen76/Introduction-to-OpenMP):
-9. [Parallel programming with MPI](https://github.com/Praveen76/Parallel-programming-with-MPI):
-10. [Oops ion Python](https://github.com/Praveen76/Oops-in-Python):
-11. [Time Complexity Analysis](https://github.com/Praveen76/Time-Complexity-Analysis):
-12. [Monitoring resources using Psutil](https://github.com/Praveen76/Time-Complexity-Analysis):
+1. [Introduction to DASK](https://github.com/Praveen76/Introduction-to-DASK):This repository contains a Jupyter notebook that provides an introduction to using Dask for parallel computing in Python. The notebook demonstrates how to implement and utilize various Dask libraries for data processing and machine learning tasks.
+2. [Introduction to NUMBA](https://github.com/Praveen76/Introduction-to-NUMBA):This repository contains a Jupyter notebook that provides an introduction to using Numba for just-in-time (JIT) compilation to optimize Python code. The notebook demonstrates how to use Numba to improve performance, understand its compilation modes, identify its limitations, and vectorize code.
+3. [Introduction to PySpark](https://github.com/Praveen76/Introduction-to-PySpark): This repository contains a Jupyter notebook that provides an introduction to using PySpark for machine learning. The notebook demonstrates how to explore and visualize datasets, and implement machine learning models using PySpark.
+4. [Introduction to RAY](https://github.com/Praveen76/Introduction-to-RAY):This repository contains a Jupyter notebook that provides an introduction to using Ray for distributed computing in Python. The notebook demonstrates how to load data, train models, and tune hyperparameters using Ray.
+5. [Distributed training using TensorFlow](https://github.com/Praveen76/Distributed_Training_using_TensorFlow): This repository contains a Jupyter notebook that provides an introduction to using TensorFlow for distributed training. The notebook demonstrates different parallelizing strategies, custom training loops, and implementation of strategies with Keras for distributed model training.
+6. [Introduction to RAPIDS](https://github.com/Praveen76/Introduction-to-RAPIDS): This repository contains a Jupyter notebook that provides an introduction to using RAPIDS for GPU-accelerated data processing and machine learning in Python. The notebook demonstrates how to load, simulate, split data, convert data formats, and train models using RAPIDS.
+7. [Introduction to PySpark and MLLib](https://github.com/Praveen76/Introduction-to-PySpark-and-MLLib): This repository contains a Jupyter notebook that provides an introduction to using PySpark and MLLib for data processing and machine learning. The notebook demonstrates how to interact with Spark using Python, understand Spark DataFrames, and implement linear regression using PySpark.
+8. [Introduction to OpenMP](https://github.com/Praveen76/Introduction-to-OpenMP): This repository contains a Jupyter notebook that provides an introduction to using OpenMP for parallelization in Python. The notebook demonstrates how to implement multiprocessing using OpenMP, along with the necessary concepts and examples.
+9. [Parallel programming with MPI](https://github.com/Praveen76/Parallel-programming-with-MPI): This repository contains a Jupyter Notebook that demonstrates the implementation of standard message-passing algorithms using MPI (Message Passing Interface). It aims to help you understand the basics of point-to-point communication, blocking and non-blocking communication, and collective communication, along with their impact on program performance.
+10. [Oops ion Python](https://github.com/Praveen76/Oops-in-Python): This repository contains a Jupyter Notebook that demonstrates the general structure of classes in Object-Oriented Programming (OOP) using Python. It aims to help you learn how to build your own classes, specialized to your needs.
+11. [Time Complexity Analysis](https://github.com/Praveen76/Time-Complexity-Analysis): This repository contains a Jupyter Notebook that demonstrates the concept of computational complexity, focusing on time complexity and Big-O notation. It aims to help you understand these fundamental concepts and determine the time complexity of given algorithms.
+12. [Monitoring resources using Psutil](https://github.com/Praveen76/Monitoring-resources-using-Psutil): This repository contains a Jupyter Notebook that demonstrates how to monitor various resources of your device using the psutil package in Python. This includes monitoring CPU, GPU, memory, disks, network, and sensors. Additionally, it explores the multiprocessing package to evaluate the advantages of parallelism in resource monitoring.
 
 
 ## Contributing
