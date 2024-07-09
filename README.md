@@ -14,6 +14,19 @@ Welcome to the Computer Science Mini Projects repository! This repository serves
 
 Explore projects focused on parallel computing and computer architecture:
 
+1. [Introduction to DASK](https://github.com/Praveen76/Introduction-to-DASK):
+2. [Introduction to NUMBA](https://github.com/Praveen76/Introduction-to-NUMBA):
+3. [Introduction to PySpark](https://github.com/Praveen76/Introduction-to-PySpark):
+4. [Introduction to RAY](https://github.com/Praveen76/Introduction-to-RAY):
+5. [Distributed training using TensorFlow](https://github.com/Praveen76/Distributed_Training_using_TensorFlow)
+6. [Introduction to RAPIDS](https://github.com/Praveen76/Introduction-to-RAPIDS):
+7. [Introduction to PySpark and MLLib](https://github.com/Praveen76/Introduction-to-PySpark-and-MLLib):
+8. [Introduction to OpenMP](https://github.com/Praveen76/Introduction-to-OpenMP):
+9. [Parallel programming with MPI](https://github.com/Praveen76/Parallel-programming-with-MPI):
+10. [Oops ion Python](https://github.com/Praveen76/Oops-in-Python):
+11. [Time Complexity Analysis](https://github.com/Praveen76/Time-Complexity-Analysis):
+12. [Monitoring resources using Psutil](https://github.com/Praveen76/Time-Complexity-Analysis):
+
 
 ## Contributing
 
